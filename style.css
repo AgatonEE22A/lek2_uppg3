@@ -1,0 +1,25 @@
+.colored-title {
+    background-color: #dbd834;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+.colored-title2 {
+    background-color: aqua;
+    color: black;
+    text-align: left;
+
+}
+
+
+
+
+
+.square-list {
+    list-style-type: square;
+    padding-left: 40px;
+}
+
+.square-list li {
+    margin-bottom: 5px;
+}
